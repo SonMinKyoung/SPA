@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SPA</string>
+    <string name="title_activity_main_map">MainMapActivity</string>
 </resources>
