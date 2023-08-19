@@ -1,8 +1,10 @@
-package com.example.spa;
+package com.example.spa.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.spa.R;
 
 public class LoginActivity extends AppCompatActivity {
 

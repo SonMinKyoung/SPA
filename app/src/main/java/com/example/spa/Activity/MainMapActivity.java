@@ -1,9 +1,10 @@
-package com.example.spa;
+package com.example.spa.Activity;
 
 import androidx.fragment.app.FragmentActivity;
 
 import android.os.Bundle;
 
+import com.example.spa.R;
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
